@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multi omics integration**
 
-- 🌱 I’m currently learning **Single cell data analysis, Evolutionary genomics andMatrix factorization statistical methods**
+- 🌱 I’m currently interested in **Single cell data analysis, Evolutionary genomics and deep learning based multi omics fusion**
 
 - 📫 How to reach me **memam@nu.edu.eg**
 
