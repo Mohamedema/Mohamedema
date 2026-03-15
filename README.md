@@ -1,7 +1,10 @@
 # Mohamed Emam Mansour
 **Bioinformatician & PhD Candidate | Deep Learning for Multi-Omics Integration**
-
-<a href="[https://scholar.google.com/citations?hl=en&user=EZHXI5QAAAAJ](https://scholar.google.com/citations?user=EZHXi5QAAAAJ&hl=en)" target="_blank">Google Scholar</a> • <a href="mailto:memam@nu.edu.eg">Email</a>
+#
+**Google scholar:** 
+https://scholar.google.com/citations?user=EZHXi5QAAAAJ&hl=en
+**Email:** 
+memam@nu.edu.eg
 
 ---
 
