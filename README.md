@@ -15,7 +15,9 @@ My research bridges the gap between computational biology and machine learning, 
 
 ### 🧬 Research Interests
 **Multi-Omics Integration:** Developing end-to-end deep learning models (e.g., Graph Autoencoders) to fuse heterogeneous molecular layers.
+
 **Cancer Biology:** Uncovering predictive biomarkers and individualized regulatory networks in cancer cell lines and primary tumors.
+
 **Single-Cell Transcriptomics:** High-dimensional data analysis and clustering for disease modeling.
 
 ### 💻 Technical Arsenal
