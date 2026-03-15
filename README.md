@@ -20,7 +20,7 @@ My research bridges the gap between computational biology and machine learning, 
 
 **Single-Cell Transcriptomics:** High-dimensional data analysis and clustering for disease modeling.
 
-### 💻 Technical Arsenal
+### 💻 Technical Skills
 **Languages:** Python, R, Bash
 **Machine Learning & AI:** PyTorch, Scikit-learn, Graph Neural Networks (GNNs), Deep Learning.
 **Bioinformatics:** Transcriptomics, Proteomics, Genomics, Systems Biology.
