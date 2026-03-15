@@ -1,26 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mohamed Emam</h1>
-<h3 align="center">A passionate Bioinformatician</h3>
+# Mohamed Emam Mansour
+**Bioinformatician & PhD Candidate | Deep Learning for Multi-Omics Integration**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedema&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedema" /> </p>
+<a href="https://scholar.google.com/citations?hl=en&user=EZHXI5QAAAAJ" target="_blank">Google Scholar</a> • <a href="mailto:memam@nu.edu.eg">Email</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedema" alt="mohamedema" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Multi omics integration**
+### 🔬 About Me
+[cite_start]I am a PhD student and Researcher at the **Interdisciplinary Centre of Marine and Environmental Research (CIIMAR), University of Porto**[cite: 133]. [cite_start]My research bridges the gap between computational biology and machine learning, with a strong focus on developing graph-based neural networks for multi-omics data integration in cancer research[cite: 135]. 
 
-- 🌱 I’m currently interested in **Single cell data analysis, Evolutionary genomics and deep learning based multi omics fusion**
+[cite_start]Previously, I gained valuable experience during research internships at the **German Cancer Research Center (DKFZ)** and **Emory University**, focusing on statistical modeling for clinical datasets and single-cell RNA analysis pipelines[cite: 138, 140, 142].
 
-- 📫 How to reach me **memam@nu.edu.eg**
+### 🧬 Research Interests
+* [cite_start]**Multi-Omics Integration:** Developing end-to-end deep learning models (e.g., Graph Autoencoders) to fuse heterogeneous molecular layers[cite: 135, 195].
+* [cite_start]**Cancer Biology:** Uncovering predictive biomarkers and individualized regulatory networks in cancer cell lines and primary tumors[cite: 135, 139].
+* [cite_start]**Evolutionary Genomics:** Tracking positive selection and evolutionary signatures in cancer-related genes (e.g., BRCA1/2, TP53, APC)[cite: 169, 187].
+* [cite_start]**Single-Cell Transcriptomics:** High-dimensional data analysis and clustering for disease modeling[cite: 142].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 💻 Technical Arsenal
+* [cite_start]**Languages:** Python, R, Bash [cite: 213, 214] (Based on common tools)
+* [cite_start]**Machine Learning & AI:** PyTorch, Scikit-learn, Graph Neural Networks (GNNs), Deep Learning [cite: 135, 164, 195]
+* [cite_start]**Bioinformatics:** Transcriptomics, Proteomics, Genomics, Systems Biology [cite: 175, 178, 187]
+* **Environment:** Linux, High-Performance Computing (HPC), Git 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📚 Selected Recent Work
+* [cite_start]**GID Framework:** Graph Integrated-omics using Dual-view for predicting tissue-specific interactions *(In preparation)*[cite: 195, 196].
+* [cite_start]**Breast Cancer Stratification:** Comparative analysis of statistical and deep learning-based multi-omics integration (JTM, 2025)[cite: 164, 165].
+* [cite_start]**Evolutionary Oncology:** Positive Selection Shapes Breast Cancer Tumor Suppressor Genes (JME, 2024)[cite: 168, 169].
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedema&show_icons=true&locale=en&layout=compact" alt="mohamedema" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedema&show_icons=true&locale=en" alt="mohamedema" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedema&" alt="mohamedema" /></p>
-
+---
+*“Turning high-dimensional biological data into actionable clinical insights.”*
